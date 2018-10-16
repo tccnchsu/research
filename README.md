@@ -8,6 +8,9 @@ https://www.letpub.com.cn/index.php?page=journalapp&view=search
 A new collection of real world applications of fractional calculus in science and engineering
 https://www.researchgate.net/profile/Hongguang_Sun/post/Could_you_suggest_some_papers_about_applications_of_fractional_calculus_to_modeling_of_physical_phenomena/attachment/5b3f03ffb53d2f892898f219/AS%3A645272862466048%401530856447212/download/A+new+collection+of+real+world+applications+of+fractional+calculus+in+science+and+engineering.pdf
 
+Fourier spectral method for higher order space fractional reaction–diffusion equations
+https://pdfs.semanticscholar.org/ba5d/22f94bcf267a88d3f097d7b95f499c025c15.pdf
+
 
 推倒知識高牆！Sci-Hub 免費下載千萬篇期刊論文電子全文
 https://free.com.tw/sci-hub/
