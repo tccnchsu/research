@@ -1,6 +1,70 @@
 # research
 research
 
+https://scholar.google.com/citations?user=Q7u5Ow4AAAAJ&hl=zh-TW&oi=sra
+
+A novel personal identity verification approach using a discrete wavelet transform of the ECG signal
+CC Chiu, CM Chuang, CY Hsu
+2008 International Conference on Multimedia and Ubiquitous Engineering, 201-206	102	2008
+Finite element analysis on deflection control of plates with piezoelectric actuators
+L Chien-Chang, H Chih-Yu, H Huang-Nan
+Composite structures 35 (4), 423-433	88	1996
+Automatic segmentation of liver PET images
+CY Hsu, CY Liu, CM Chen
+Computerized Medical Imaging and Graphics 32 (7), 601-610	64	2008
+Discrete wavelet transform applied on personal identity verification with ECG signal
+CC Chiu, CM Chuang, CY Hsu
+International Journal of Wavelets, Multiresolution and Information …	41	2009
+Vibration and sound radiation controls of beams using layered modal sensors and actuators
+CY Hsu, CC Lin, L Gaul
+Smart Materials and Structures 7 (4), 446	37	1998
+Interlaminar stresses in general laminates with straight free edges
+CC Lin, CY Hsu, CC Ko
+AIAA journal 33 (8), 1471-1476	32	1995
+Static shape control of smart beam plates laminated with sine sensors and actuators
+CC Lin, CY Hsu
+Smart materials and structures 8 (5), 519	27	1999
+Shape control of composite plates by bonded actuators with high performance configuration
+CY Hsu, CC Lin, L Gaul
+Journal of reinforced plastics and composites 16 (18), 1692-1710	19	1997
+Automatic threshold level set model applied on MRI image segmentation of brain tissue
+M Zhao, HY Lin, CH Yang, CY Hsu, JS Pan, MJ Lin
+Applied Mathematics & Information Sciences 9 (4), 1971	18	2015
+Multi-threshold level set model for image segmentation
+CY Hsu, CH Yang, HC Wang
+EURASIP Journal on Advances in Signal Processing 2010 (1), 950438	17	2010
+Wavelet-domain audio watermarking using optimal modification on low-frequency amplitude
+ST Chen, CY Hsu, HN Huang
+IET signal processing 9 (2), 166-176	14	2015
+Optimization-based image watermarking with integrated quantization embedding in the wavelet-domain
+ST Chen, HN Huang, WM Kung, CY Hsu
+Multimedia Tools and Applications 75 (10), 5493-5511	12	2016
+Automatic extraction of face contours in images and videos
+CY Hsu, HF Wang, HC Wang, KK Tseng
+Future Generation Computer Systems 28 (1), 322-335	11	2012
+Topological control of level set method depending on topology constraints
+CY Hsu, CH Yang, HC Wang
+Pattern Recognition Letters 29 (4), 537-546	10	2008
+Active contour model with a novel image force field
+CY Hsu, SH Chen, KL Wang
+Conference CVGIP2003, 47783	9	2003
+Optimization-based embedding for wavelet-domain audio watermarking
+HN Huang, ST Chen, MS Lin, WM Kung, CY Hsu
+Journal of Signal Processing Systems 80 (2), 197-208	8	2015
+Salt and pepper noise reduction by cellular automata
+CY Hsu, TS Tsui, SS Yu, KK Tseng
+International Journal of Applied Science and Engineering 9 (3), 143-160	8	2011
+Computer-assisted orientation of dental periapical radiographs to the occlusal plane
+CH Huang, CY Hsu
+Oral Surgery, Oral Medicine, Oral Pathology, Oral Radiology, and …	8	2008
+Computer-assisted system with multiple feature fused support vector machine for sperm morphology diagnosis
+KK Tseng, Y Li, CY Hsu, HN Huang, M Zhao, M Ding
+BioMed research international 2013	7	2013
+A PSO-SVM lips recognition method based on active basis model
+CY Hsu, CH Yang, YC Chen, M Tsai
+Genetic and Evolutionary Computing (ICGEC), 2010 Fourth International …	6	2010
+
+
 Communications in Nonlinear Science and Numerical Simulation 2区
 https://www.letpub.com.cn/index.php?journalid=1913&page=journalapp&view=detail
 https://www.letpub.com.cn/index.php?page=journalapp&view=search
