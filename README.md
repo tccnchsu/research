@@ -5,6 +5,8 @@ Communications in Nonlinear Science and Numerical Simulation 2区
 https://www.letpub.com.cn/index.php?journalid=1913&page=journalapp&view=detail
 https://www.letpub.com.cn/index.php?page=journalapp&view=search
 
+A new collection of real world applications of fractional calculus in science and engineering
+https://www.researchgate.net/profile/Hongguang_Sun/post/Could_you_suggest_some_papers_about_applications_of_fractional_calculus_to_modeling_of_physical_phenomena/attachment/5b3f03ffb53d2f892898f219/AS%3A645272862466048%401530856447212/download/A+new+collection+of+real+world+applications+of+fractional+calculus+in+science+and+engineering.pdf
 
 
 最新信息科学领域SCI影响因子查询及期刊投稿分析系统
