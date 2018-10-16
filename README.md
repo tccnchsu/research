@@ -9,6 +9,9 @@ A new collection of real world applications of fractional calculus in science an
 https://www.researchgate.net/profile/Hongguang_Sun/post/Could_you_suggest_some_papers_about_applications_of_fractional_calculus_to_modeling_of_physical_phenomena/attachment/5b3f03ffb53d2f892898f219/AS%3A645272862466048%401530856447212/download/A+new+collection+of+real+world+applications+of+fractional+calculus+in+science+and+engineering.pdf
 
 
+推倒知識高牆！Sci-Hub 免費下載千萬篇期刊論文電子全文
+https://free.com.tw/sci-hub/
+
 最新信息科学领域SCI影响因子查询及期刊投稿分析系统
 
 https://www.letpub.com.cn/index.php?page=journalapp&fieldtag=4&firstletter=
