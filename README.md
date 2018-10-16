@@ -1,6 +1,12 @@
 # research
 research
 
+Communications in Nonlinear Science and Numerical Simulation 2区
+https://www.letpub.com.cn/index.php?journalid=1913&page=journalapp&view=detail
+https://www.letpub.com.cn/index.php?page=journalapp&view=search
+
+
+
 最新信息科学领域SCI影响因子查询及期刊投稿分析系统
 
 https://www.letpub.com.cn/index.php?page=journalapp&fieldtag=4&firstletter=
