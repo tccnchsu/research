@@ -1,15 +1,26 @@
 # research
 research
 
+Template anatomical atlases and parcellation schemes
+http://www.fieldtriptoolbox.org/template/atlas
+
+How to Develop Baseline Forecasts for Multi-Site Multivariate Air Pollution Time Series Forecasting
+https://machinelearningmastery.com/how-to-develop-baseline-forecasts-for-multi-site-multivariate-air-pollution-time-series-forecasting/
+
+
 https://scholar.google.com/citations?user=Q7u5Ow4AAAAJ&hl=zh-TW&oi=sra
 
 A novel personal identity verification approach using a discrete wavelet transform of the ECG signal
 CC Chiu, CM Chuang, CY Hsu
+
 2008 International Conference on Multimedia and Ubiquitous Engineering, 201-206	102	2008
-Finite element analysis on deflection control of plates with piezoelectric actuators
+Finite element analysis on deflection control of plates with piezoelectric 
+
+actuators
 L Chien-Chang, H Chih-Yu, H Huang-Nan
 Composite structures 35 (4), 423-433	88	1996
 Automatic segmentation of liver PET images
+
 CY Hsu, CY Liu, CM Chen
 Computerized Medical Imaging and Graphics 32 (7), 601-610	64	2008
 Discrete wavelet transform applied on personal identity verification with ECG signal
