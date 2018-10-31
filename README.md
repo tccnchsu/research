@@ -57,9 +57,11 @@ Multi-threshold level set model for image segmentation
 CY Hsu, CH Yang, HC Wang
 EURASIP Journal on Advances in Signal Processing 2010 (1), 950438	17	2010
 Wavelet-domain audio watermarking using optimal modification on low-frequency amplitude
+
 ST Chen, CY Hsu, HN Huang
 IET signal processing 9 (2), 166-176	14	2015
 Optimization-based image watermarking with integrated quantization embedding in the wavelet-domain
+
 ST Chen, HN Huang, WM Kung, CY Hsu
 Multimedia Tools and Applications 75 (10), 5493-5511	12	2016
 Automatic extraction of face contours in images and videos
