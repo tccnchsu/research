@@ -50,6 +50,7 @@ Shape control of composite plates by bonded actuators with high performance conf
 CY Hsu, CC Lin, L Gaul
 Journal of reinforced plastics and composites 16 (18), 1692-1710	19	1997
 Automatic threshold level set model applied on MRI image segmentation of brain tissue
+
 M Zhao, HY Lin, CH Yang, CY Hsu, JS Pan, MJ Lin
 Applied Mathematics & Information Sciences 9 (4), 1971	18	2015
 Multi-threshold level set model for image segmentation
@@ -77,6 +78,7 @@ Active contour model with a novel image force field
 CY Hsu, SH Chen, KL Wang
 Conference CVGIP2003, 47783	9	2003
 Optimization-based embedding for wavelet-domain audio watermarking
+
 HN Huang, ST Chen, MS Lin, WM Kung, CY Hsu
 Journal of Signal Processing Systems 80 (2), 197-208	8	2015
 Salt and pepper noise reduction by cellular automata
@@ -88,6 +90,7 @@ Computer-assisted orientation of dental periapical radiographs to the occlusal p
 CH Huang, CY Hsu
 Oral Surgery, Oral Medicine, Oral Pathology, Oral Radiology, and …	8	2008
 Computer-assisted system with multiple feature fused support vector machine for sperm morphology diagnosis
+
 KK Tseng, Y Li, CY Hsu, HN Huang, M Zhao, M Ding
 BioMed research international 2013	7	2013
 A PSO-SVM lips recognition method based on active basis model
