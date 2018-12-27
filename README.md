@@ -1,5 +1,10 @@
 # research
 
+Hsu Chih-Yu
+https://scholar.google.com.tw/citations?user=Q7u5Ow4AAAAJ&hl=zh-TW
+
+An Interactive Procedure to Preserve the Desired Edges during the Image Processing of Noise Reduction
+https://asp-eurasipjournals.springeropen.com/articles/10.1155/2010/923748
 
 IET Computer Vision  四區
 
