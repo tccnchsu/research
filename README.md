@@ -2,6 +2,8 @@
 INTERNATIONAL JOURNAL OF ROBOTICS & AUTOMATION
 https://www.letpub.com.cn/index.php?page=journalapp&view=search
 
+https://www.editorialmanager.com/IJRA/default.aspx
+
 
 Hsu Chih-Yu
 https://scholar.google.com.tw/citations?user=Q7u5Ow4AAAAJ&hl=zh-TW
